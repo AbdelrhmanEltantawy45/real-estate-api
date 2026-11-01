@@ -16,7 +16,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Uploaded files (local dev storage)
-uploads/
+/uploads/
 
 # Test coverage
 coverage/
